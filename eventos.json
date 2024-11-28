@@ -1,0 +1,24 @@
+{
+  "eventos": [
+    {
+      "id": 1,
+      "nome": "Festival de Música",
+      "descricao": "Evento anual que reúne bandas e artistas de vários gêneros musicais."
+    },
+    {
+      "id": 2,
+      "nome": "Feira de Ciências",
+      "descricao": "Exposição de projetos científicos de estudantes e pesquisadores."
+    },
+    {
+      "id": 3,
+      "nome": "Conferência de Tecnologia",
+      "descricao": "Evento que aborda as últimas inovações no mundo da tecnologia e inovação."
+    },
+    {
+      "id": 4,
+      "nome": "Conferência de Tecnologia",
+      "descricao": "Evento que aborda as últimas inovações no mundo da tecnologia e inovação."
+    }
+  ]
+}
